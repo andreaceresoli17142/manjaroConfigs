@@ -4,4 +4,5 @@ mv -f .bashrc ~/
 mkdir ~/Pictures/wallpapers
 mv -f 13.jpg ~/Pictures/wallpapers
 mv -f ./* ~/.config
+chsh -s /bin/bash
 reboot
