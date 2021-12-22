@@ -1,0 +1,48 @@
+{
+	"lockOption": -1,
+	"vaultTimeoutAction": "lock",
+	"openAtLogin": false,
+	"mainWindowSize": {
+		"width": 950,
+		"height": 575,
+		"isMaximized": false,
+		"displayBounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1366,
+			"height": 768
+		},
+		"x": 234,
+		"y": 118
+	},
+	"installedVersion": "1.29.1",
+	"lastActive": 1637701623238,
+	"appId": "ecd81d13-7a69-4a1f-9e38-f357d778fbcf",
+	"accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IkJDMzZDMjE0REI0OEYyMzVCNzdEQTNGMTcyMEMxQTM1QTk2MkVBNDNSUzI1NiIsInR5cCI6ImF0K2p3dCIsIng1dCI6InZEYkNGTnRJOGpXM2ZhUHhjZ3dhTmFsaTZrTSJ9.eyJuYmYiOjE2Mzc3MDE2MTYsImV4cCI6MTYzNzcwNTIxNiwiaXNzIjoiaHR0cHM6Ly9pZGVudGl0eS5iaXR3YXJkZW4uY29tIiwiY2xpZW50X2lkIjoiZGVza3RvcCIsInN1YiI6IjVmMmVmN2NhLTc1ZTgtNDFkYS04ZGE3LWFkZTkwMTViZDQ4ZiIsImF1dGhfdGltZSI6MTYzNzcwMTYxNSwiaWRwIjoiYml0d2FyZGVuIiwicHJlbWl1bSI6ZmFsc2UsImVtYWlsIjoiYW5kcmVhLmNlcmVzb2xpMDNAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJzc3RhbXAiOiJXRElUTkdESkxNV09IMlpOWDRZVERQS0g1MkI3T1lDSSIsImRldmljZSI6ImVjZDgxZDEzLTdhNjktNGExZi05ZTM4LWYzNTdkNzc4ZmJjZiIsImp0aSI6IjQ5MzI1MjZCNDYzM0M3OUJBRUNGRkRGNzI1NzdFOUFBIiwiaWF0IjoxNjM3NzAxNjE2LCJzY29wZSI6WyJhcGkiLCJvZmZsaW5lX2FjY2VzcyJdLCJhbXIiOlsiQXBwbGljYXRpb24iXX0.Sg-km-QxAluzFa7RtNMhn2DO3SI6nRicUWqqajvFz8WcYTAxSgziJ_jSxjTvSyC9RDkeEy4v2xHmMapZvDl_v773JgulTaWGtfr5j_t_vJjNeI-rKkyNvNacZBrCipBzTrmNBJmztFgqv_gtCxZIJFZbWiGkPLzvrk-ttMKleMDT68DGna9tgqmTMTMZ0R4Mm6Votj9yY-2Y33dcexN8nV70VmsDngdiR7fdVAj4rKwW6HBF3mVwXjdUBkZX4jW9eGwGqhMuZAK8IX5zdzU76MMyZFG3a7SH8OJaE_OuCI67N68wKlpXGkav4Bnu-Wv1AwF1gZPMLR97iyeXdgeilvT9voa2A0F7_Cu-GTtWogM2gi4zj1JHDz0I49x6MjESJTxeIDAZNvv2K6dvyfEIAGoIX_TIwGEgeU0YSCLP_ezuSSILAlEA28vt9KhBPPwZf6YO9KMcPyscKcOVOm0MkxvNOPq1YmxsNJt_tbc6eVbaO20-nKNLb6ldmyLvnl0Cvi4NIXuEifeT3dx__ShBgTHovt2O1Rail2873en3eSuBPgPRuKipwMmody-GfqydcV32WqrsDq0dAu42Fqyt5yfV7yapSWCIpgtY2tSW6ZVCQx90ivC15HjD9lCHXGaGdiHZcbOlhTsAWQ0CQ6Q_dAggcLAhji8kaqvHby9OiU4",
+	"refreshToken": "594C52958B9158117D0D22A53E25D3E3F09B3E5E0EAAF392A55F3B99C8CE6EA4",
+	"userEmail": "andrea.ceresoli03@gmail.com",
+	"userId": "5f2ef7ca-75e8-41da-8da7-ade9015bd48f",
+	"kdf": 0,
+	"kdfIterations": 100000,
+	"keyHash": "Dt/I6MJcELAa2RI6KCBUflkBRePNLwpgysOdgkZMWng=",
+	"encKey": "2.RW6pbAmyz6oC/39YoxmieQ==|I5GR5Zhy2fBmbK8+zw3dMRKe0MyQOvqUN23olzLbzxwklWnugu8lNtREz80EENizV3wr2z7e3lU4xVHUpAfC8PeRnDG+qb+/WcLEPDrWZV8=|QvlVRcr9lUAYuiB2+Me61EDlEwcUTjb1jp1IuDq7Pyo=",
+	"encPrivateKey": "2.l4AT9yCuhRK9Yf4DH4Ljcw==|vtaKS/SE84XKbc/KZkB71L32zonvFULH81/qH5Glvws9Qt6YKILhzs8L0c2Ec35ESccMc0iWzH21HVBTWWCugYnAtFP+r8wXFGTaCprJbJUh72KCSNR4VEM2IS0TWQcAMacoIUKd/VvnvhiJR5mwJR1pJapAc560OnNwUPEsONZ6/L5qFTcyFAOiOahI2gDIzRp7iV4dhfNXymZrfU2el07nwXu7wJUONo8kUir3Fxp+x4D/UlMbdsFropKGMfOX8h+nU/iWRgB6070/QwntoBulHwL7pQsfXDtTlhuWkLcpYm7b2xwoOUB37Qv/sibgDk9FrPzr60Ox4US0m1Ku0whHau3QafZcPZV2Z9bqVtgRD+SzlQBNtK2r6dGH/ThEw0aHTY+di2sOTNwgTLvQaBQRAlTMC2tBol1X/Bi38s63oneUmYIOE1+4IyeCdi5IhsKr2EYzXldmaNmNEVvrowczfVnjCwLNWm8CYE031KBqapAatstWF8DCZuI1wp/upq9RRvMBrCQODq4stbI8pBVJcliSqDnKqYY+A/wrCx4XRQUT1+f+lNrwzXq+OFpCbhnWyYKHzySXbccHqTDsn4KPi0CUIS8Ck9uqehB+rMao+qgcJ78Z/e10Cr+eQBLX6YlNerywt80QLxnwLNZh+C1kqD+RZNVeh95DB4wJuNTJ1di3pllrG7ErTCsy7nT2RGSgQtAl29wXQoA4nmTn8GxuhUzoI73SCdgj0M4unSDnIye2JBkMZ0n60Cq1UMqGqMma9AcLeV++38f78jVm1GFzQ+liZPPJsqMIRSW1gN0BG+wP/gLRSxTtVz/Owoaf7giwyA8tOzEIaYfeVTcnPAvf6zoc1Fh8kLhNRCNAdwQZ6DgTnbCMn3AJc+3HAEuH35bpmDV+KX0J8U5/nA1jjJgo92D9fsMuBmO6NR3YkBiiGChZRB7qcSSY/wdnEwHsz8xziejUfabll4L6bMUBE+UVNwJbrUC0uzn/Eb281JSDnkHb1ZdFM7d+K8e9DrxoBF9klsHIK9O9qqoiXC5Y8Yx2FQ97s3CzQN0KZvuvykxsG9BT9VLXjcAPk96/7rALyG5etQau3Smxjx9qmT3kVopdPQv+WnRjGTnIkMMV0GQejwLU6iTKNFLp52I1OnRGclFvGKuD3WWiTVwCzCExepj1EOhKw5mWfss0i4YLLrTymbEEBNzUN04BwGQq54XryIAxAcZEqWVE4K/PnyDhdYkrExZ/WI60W6Xk2Dy/OgZNGdLwvPCgqgMh9j6rbWPfi+qkTCMs23KsRtBzlGjupS2EwD1l9ToWpZ+z8tkN5vKlReY1Ld5vYVH35U7VviqyqQ7xuXshGk1Inz66ejVfc+WZsb7/Cn37JFEeDctro00NOCnN/73jMD9pUHB/O5sKG0ykrgxEc1BP/7Zc2BVHByrMXtV2L6QHLfOL+KP3COoFs55E7B9cwEv0L2hg2Vrt8+aFC9vgUZReqHeTiR2ZqSNVNZwOj6slWHhAUKqn23Q3fIiIl63GJ0YDIOGPbIZtLOp3Oi/1Z7AjswFUI4/1MGrXgJ7ho1fAl2ZgtNEHVds9dMk80HzUGewUcWbr8nuD3fgef3U79SftFlEYbPMHv20QY4MoDfYdt2rznbBK+eU=|t3Da3AUItPFWTcO/ZqtJIWGym/mABDtbak4f/mqUEbk=",
+	"rememberEmail": true,
+	"rememberedEmail": "andrea.ceresoli03@gmail.com",
+	"encProviderKeys": {},
+	"encOrgKeys": {},
+	"securityStamp": "WDITNGDJLMWOH2ZNX4YTDPKH52B7OYCI",
+	"emailVerified": false,
+	"forcePasswordReset": false,
+	"organizations_5f2ef7ca-75e8-41da-8da7-ade9015bd48f": {},
+	"providers_5f2ef7ca-75e8-41da-8da7-ade9015bd48f": {},
+	"folders_5f2ef7ca-75e8-41da-8da7-ade9015bd48f": {},
+	"collections_5f2ef7ca-75e8-41da-8da7-ade9015bd48f": {},
+	"ciphers_5f2ef7ca-75e8-41da-8da7-ade9015bd48f": {},
+	"sends_5f2ef7ca-75e8-41da-8da7-ade9015bd48f": {},
+	"settings_5f2ef7ca-75e8-41da-8da7-ade9015bd48f": {
+		"equivalentDomains": []
+	},
+	"policies_5f2ef7ca-75e8-41da-8da7-ade9015bd48f": {},
+	"lastSync_5f2ef7ca-75e8-41da-8da7-ade9015bd48f": "2021-11-23T21:06:55.932Z"
+}
