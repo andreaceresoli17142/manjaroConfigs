@@ -8,5 +8,5 @@ chsh -s /bin/bash
 
 cd ~/.config/polybar/scripts
 git clone https://github.com/andreaceresoli17142/polybarWeatherModule ./weather
-
+sudo rm -r ~/manjaroConfigs
 reboot
