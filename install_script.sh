@@ -4,4 +4,9 @@ mv -f .bashrc ~/
 mkdir ~/Pictures/wallpapers
 mv -f 13.jpg ~/Pictures/wallpapers
 mv -f ./* ~/.config
+chsh -s /bin/bash
+
+cd ~/.config/polybar/scripts
+git clone https://github.com/andreaceresoli17142/polybarWeatherModule ./weather
+
 reboot
