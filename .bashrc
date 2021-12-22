@@ -140,6 +140,7 @@ eval "$(starship init bash)"
 
 # Alises
 alias c="clear"
+alias cc="clear ; neofetch"
 alias la="ls -a"
 alias b="cd ../ && la"
 neofetch
