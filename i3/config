@@ -194,5 +194,5 @@ for_window [class="^.*"] border pixel 3
 #exec kitty
 exec picom
 
-exec_always feh --bg-fill $HOME/Pictures/wallpapers/bg.png
+exec feh --bg-fill $(sh .scripts/selectFileFromDir.sh)
 exec --no-startup-id xautolock -time 15 -locker ~/.config/i3/matrixlock.py

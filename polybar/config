@@ -64,9 +64,9 @@ padding-right = 1
 module-margin-left = 1
 module-margin-right = 1
 
-font-0 = Fira Code:style=regular:pixelsize=15;0
+font-0 = Fira Code:style=regular:pixelsize=17;0
 ;font-1 = Mono:pixelsize=30:weight=regular;1
-font-1 =  Noto Color Emoji:style=Regular:scale=6;1
+font-1 =  Noto Color Emoji:style=Regular:scale=5;1
 
 ;font-0 = FiraCode Nerd Font:pixelsize=10;1
 

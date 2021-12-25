@@ -1,0 +1,70 @@
+# settings
+
+(GimpGegl-gimp-colorize-config "2021-12-23 17:22:20"
+    (time 1640276540)
+    (hue 0.33333333333333331)
+    (saturation 1)
+    (lightness -0.25)
+    (color (color-rgb 0 0.75 0)))
+(GimpGegl-gimp-colorize-config "2021-12-23 17:18:19"
+    (time 1640276299)
+    (hue 0)
+    (saturation 1)
+    (lightness -0.25)
+    (color (color-rgb 0.75 0 0)))
+(GimpGegl-gimp-colorize-config "2021-12-23 17:17:45"
+    (time 1640276265)
+    (hue 0.66666666666666663)
+    (saturation 1)
+    (lightness -0.25)
+    (color (color-rgb 0 0 0.75)))
+(GimpGegl-gimp-colorize-config "2021-12-23 16:49:46"
+    (time 1640274586)
+    (hue 0)
+    (saturation 1)
+    (lightness -0.19999999999999996)
+    (color (color-rgb 0.80000000000000004 0 0)))
+(GimpGegl-gimp-colorize-config "2021-12-23 16:47:50"
+    (time 1640274470)
+    (hue 0.5)
+    (saturation 1)
+    (lightness -0.19999999999999996)
+    (color (color-rgb 0 0.80000000000000004 0.80000000000000004)))
+(GimpGegl-gimp-colorize-config "2021-12-23 15:41:13"
+    (time 1640270473)
+    (hue 0.33236994219653182)
+    (saturation 0.5)
+    (lightness 0)
+    (color (color-rgb 0.2528901734104046 0.75 0.25)))
+(GimpGegl-gimp-colorize-config "2021-12-23 15:38:46"
+    (time 1640270326)
+    (hue 0)
+    (saturation 0.71264367816091945)
+    (lightness -0.092097606393296338)
+    (color (color-rgb 0.7774566473988439 0.1304457462078597 0.1304457462078597)))
+(GimpGegl-gimp-colorize-config "2021-12-23 12:33:43"
+    (time 1640259223)
+    (hue 0.76655711571482044)
+    (saturation 0.50182083029861602)
+    (lightness -0.77561693087105732)
+    (color (color-rgb 0.12337753168247551 0.055891485536852449 0.16849158359209021)))
+(GimpGegl-gimp-colorize-config "2021-12-23 11:53:55"
+    (time 1640256835)
+    (hue 0.79761904761904756)
+    (saturation 0.60869565217391308)
+    (lightness 0.63921568627450975)
+    (color (color-rgb 0.88235294117647056 0.70980392156862748 0.92941176470588238)))
+(GimpGegl-gimp-colorize-config "2021-12-23 11:26:42"
+    (time 1640255202)
+    (hue 0.79757790964887965)
+    (saturation 0.59945504087193446)
+    (lightness 0.63895720609936069)
+    (color (color-rgb 0.88126201744861887 0.71126414166256768 0.92769306443679289)))
+(GimpGegl-gimp-colorize-config "molecule"
+    (time 0)
+    (hue 0.79761904761904756)
+    (saturation 0.60869565217391308)
+    (lightness 0.63921568627450975)
+    (color (color-rgb 0.88235294117647056 0.70980392156862748 0.92941176470588238)))
+
+# end of settings

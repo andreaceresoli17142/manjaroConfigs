@@ -143,5 +143,7 @@ alias c="clear"
 alias cc="clear ; neofetch"
 alias la="ls -a"
 alias b="cd ../ && la"
+alias chbg="sh ~/.scripts/changeBg.sh"
+
 neofetch
 #picom --config .config/picom
