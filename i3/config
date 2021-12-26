@@ -196,3 +196,4 @@ exec picom
 
 exec feh --bg-fill $(sh .scripts/selectFileFromDir.sh)
 exec --no-startup-id xautolock -time 15 -locker ~/.config/i3/matrixlock.py
+exec xrandr --output DP-0 --auto --output DP-5 --auto --scale 1.5x1.5 --right-of DP-0
