@@ -176,7 +176,7 @@ ramp-signal-foreground = ${colors.foreground-alt}
 type = internal/date
 interval = 5
 
-date = %d/%m
+date = %d/%m/%y
 date-alt = " %Y-%m-%d"
 
 time = %H:%M
