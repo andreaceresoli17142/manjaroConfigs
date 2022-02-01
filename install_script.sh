@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo 
+sudo sleep 0.1
 
 pacman -Syu
 
