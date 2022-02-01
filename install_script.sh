@@ -2,15 +2,15 @@
 sudo sleep 0.1
 
 pacman -Syu
-
+cd ~/manjaroConfigs
 pacman -S $(cat pkgs.txt | cut -d' ' -f1)
 
-mv -f ~/manjaroConfigs/.bashrc ~/.
+rsync -a ~/manjaroConfigs/.bashrc ~/.
 #old way, needs updating
   #mkdir ~/Pictures/wallpapers
 #mv -f ~/manjaroConfigs/bg.png ~/Pictures/wallpapers
 rm -r ~/manjaroConfigs/install_script.sh
-mv -f ~/manjaroConfigs/* ~/.config
+rsync -a ~/manjaroConfigs/* ~/.config
 chsh -s /bin/bash
 
 cd ~/.config/polybar/scripts
