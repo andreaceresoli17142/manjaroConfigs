@@ -26,7 +26,7 @@ truncation_length = 4
 truncation_symbol = "☁️ /"
 style="bold white"
 read_only = " 🔒"
-read_only_style	= "purple"
+read_only_style	= "red"
 
 [git_branch]
 symbol = " "

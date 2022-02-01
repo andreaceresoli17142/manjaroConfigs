@@ -139,11 +139,22 @@ ex ()
 eval "$(starship init bash)"
 
 # Alises
+alias sudo="doas"
+alias venvact="source venv/bin/activate"
+alias gitpush="sh ~/.scripts/gitDeploy.sh"
+alias rm="trash"
 alias c="clear"
 alias cc="clear ; neofetch"
 alias la="ls -a"
 alias b="cd ../ && la"
 alias chbg="sh ~/.scripts/changeBg.sh"
+alias tarzip="tar -czvf"
+alias tarunzip="tar -xzvf"
 
 neofetch
 #picom --config .config/picom
+
+
+# BEGIN_KITTY_SHELL_INTEGRATION
+if test -n "$KITTY_INSTALLATION_DIR" -a -e "$KITTY_INSTALLATION_DIR/shell-integration/bash/kitty.bash"; then source "$KITTY_INSTALLATION_DIR/shell-integration/bash/kitty.bash"; fi
+# END_KITTY_SHELL_INTEGRATION

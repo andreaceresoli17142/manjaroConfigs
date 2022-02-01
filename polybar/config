@@ -45,7 +45,7 @@ warning = #ffb52a
 
 
 [bar/stdBar]
-;monitor = ${env:MONITOR:HDMI-1}
+monitor = ${env:MONITOR:HDMI-1}
 width = 100%
 height = 38
 ;offset-x = 1%
@@ -103,7 +103,7 @@ index-sort = true
 wrapping-scroll = false
 
 ; Only show workspaces on the same output as the bar
-;pin-workspaces = true
+pin-workspaces = true
 
 label-mode-padding = 1
 label-mode-foreground = #000
@@ -254,7 +254,7 @@ animation-charging-framerate = 1200
 
 [module/temperature]
 type = custom/script
-interval = 6
+interval = 600
 format = <label>
 exec = python3 ~/.config/polybar/scripts/weather/weather_script.py
 format-underline = ${colors.primary}
