@@ -1,9 +1,9 @@
 #!/bin/bash
 sudo sleep 0.1
 
-pacman -Syu
+sudo pacman -Syu
 cd ~/manjaroConfigs
-pacman -S $(cat pkgs.txt | cut -d' ' -f1)
+sudo pacman -S $(cat pkgs.txt | cut -d' ' -f1)
 
 rsync -a ~/manjaroConfigs/.bashrc ~/.
 #old way, needs updating
